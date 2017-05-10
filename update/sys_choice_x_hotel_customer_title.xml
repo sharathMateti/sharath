@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="title" table="x_hotel_customer" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Administrative Assistant</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8a3c9510f153200b4308b9ae1050eb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Administrative Assistant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chief Executive Officer</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10a3c9510f153200b4308b9ae1050eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Chief Executive Officer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chief Financial Officer</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90a3c9510f153200b4308b9ae1050ebc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Chief Financial Officer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chief Technology Officer</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14a3c9510f153200b4308b9ae1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Chief Technology Officer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Director</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ca3c9510f153200b4308b9ae1050ecc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Director</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT Technician</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dca3c9510f153200b4308b9ae1050ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>IT Technician</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Junior Developer</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50a3c9510f153200b4308b9ae1050ed1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Junior Developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales Executive</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0a3c9510f153200b4308b9ae1050ed3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Sales Executive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Senior Developer</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54a3c9510f153200b4308b9ae1050ed5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Senior Developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solution Consultant</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4a3c9510f153200b4308b9ae1050ed7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Solution Consultant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Administrator</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58a3c9510f153200b4308b9ae1050ed9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>System Administrator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vice President</label>
+            <language>en</language>
+            <name>x_hotel_customer</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d8a3c9510f153200b4308b9ae1050edb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-03 11:29:04</sys_updated_on>
+            <value>Vice President</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <name>x_hotel_customer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-03 11:29:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1ca3c9510f153200b4308b9ae1050eb9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>title</sys_name>
+            <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+            <sys_update_name>sys_choice_x_hotel_customer_title</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-10 09:31:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
